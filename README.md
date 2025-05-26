@@ -1,3 +1,3 @@
 **Practice Algorithmes en Python**
 
-**Auteur : Truong Son Vu **
+**Auteur : Truong Son Vu**
